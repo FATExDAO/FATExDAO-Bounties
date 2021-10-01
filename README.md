@@ -2,23 +2,21 @@
 The FATExDAO Bounty program is for the community to take part in the development of the FATExDAO Ecosystem. Both technical and non-technical bounties can be added.
 
 # Introduction:
-Anyone can start a bounty in this repo to pay token rewards to those who accomplished the bounty based on the specification.
+If you have a bug or an idea, browse the open issues before opening a new one. You can also take a look at the [Open Source Guide](https://opensource.guide/).
 
-Each bounty should have a clear definition of the goal, requirement, acceptance criteria, and amount of token rewards.
+Each FATExDAO bounty will state a clear definition of the goal, requirements, acceptance criteria, and rewards (stated below).
 
-All the bounties will be listed in the (https://github.com/FATExDAO/FATExDAO-Bounties/issues) Issues tab.
+All bounties will be listed in the [Issues](https://github.com/FATExDAO/FATExDAO-Bounties/issues) tab.
 
 # How to participate:
-You may submit a bounty specification by adding a new issue. Or just be the bounty hunter to finish the bounty based on the specification.
+Read access is granted to github users for this repository. You may submit a bounty specification by adding a new issue. You may also browse open issues and select  reward based bounties to complete.
 
-Bounty hunters shall contact the bounty producer directly or comment on the issue for engagement.
-
-A clearly defined acceptance criteria will benefit both producers and hunters to accomplish the bounties.
+For detailed instructions on how to create and participate in issues please review the [Github Issues Docs](https://docs.github.com/en/issues) before asking questions.
 
 # FATExDAO Bounty Reward Details & Additional Options:
 The bounty for the winner will be 0.5% of total FATE supply (4,444,444 tokens). Bounty payment will be structured as follows: (to ensure FATE price growth and prevent "dumping")
 
-Bounty winner will have 1 of 2 options for bounty prize payout: 
+**Bounty winner will have 1 of 2 options for bounty prize payout: **
 
 Paid in xFATE and locked for 6 months (generating compounding income from DEX fees) - released weekly after 6-months - 50% immediately - the remainder will be released at a steady, weekly rate of 10% from original prize amount.
 
