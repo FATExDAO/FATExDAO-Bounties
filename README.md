@@ -6,9 +6,9 @@ Anyone can start a bounty in this repo to pay token rewards to those who accompl
 
 Each bounty should have a clear definition of the goal, requirement, acceptance criteria, and amount of token rewards.
 
-All the bounties will be listed in the (https://github.com/FATExDAO/FATExDAO-Bounties/issues) tab.
+All the bounties will be listed in the (https://github.com/FATExDAO/FATExDAO-Bounties/issues) Issues tab.
 
-# How to participate 
+# How to participate:
 You may submit a bounty specification by adding a new issue. Or just be the bounty hunter to finish the bounty based on the specification.
 
 Bounty hunters shall contact the bounty producer directly or comment on the issue for engagement.
@@ -35,7 +35,7 @@ The hope (though not necessary) is that the winner will be incentivized to conti
 The point of the bounty and the ideas mentioned are to serve as guides. The winner will be the provider that can build something that accomplishes the goal and is the most "user friendly" - i.e. creating side benefits from whatever is creative that increases user interaction and is positively reinforcing vs. punitive will be deemed as more likely to win - however, if a punitive approach is deemed as more effective, so long as it doesn't detract users to the point of preventing growth - that will win.
 
 
-# Examples
+# Examples:
 Some examples of the potential bounties include large or small, technical or non-technical projects.
 
 * Smart Contracts that increase fate price/tvl
