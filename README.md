@@ -6,7 +6,7 @@ Anyone can start a bounty in this repo to pay token rewards to those who accompl
 
 Each bounty should have a clear definition of the goal, requirement, acceptance criteria, and amount of token rewards.
 
-All the bounties will be listed in the Issues tab.
+All the bounties will be listed in the (https://github.com/FATExDAO/FATExDAO-Bounties/issues) tab.
 
 # How to participate 
 You may submit a bounty specification by adding a new issue. Or just be the bounty hunter to finish the bounty based on the specification.
