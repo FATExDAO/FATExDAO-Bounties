@@ -19,5 +19,6 @@ For detailed instructions on how to create and participate in issues please revi
 
 * Smart Contracts that increase fate price/tvl
 * Rewards tracker based on commitment w/ bonus
+* Multi-Token / 3+ Token Pools
 
 
